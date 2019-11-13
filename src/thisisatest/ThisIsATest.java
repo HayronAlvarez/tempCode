@@ -18,6 +18,7 @@ public class ThisIsATest {
     {
         //new comment
         // TODO code application logic here
+        System.out.println("Hello world");
     }
     
 }
